@@ -1,8 +1,16 @@
-title: Pasha's GenAI Blog
-tagline: My journey into Generative AI
-description: Learning and explaining GenAI, LLMs, prompts, RAG, and more.
+title: "Pasha's GenAI Blog"
+tagline: "My journey into Generative AI"
+description: "Learning GenAI, LLMs, Prompt Engineering, and more"
 url: "https://shaikjanipasha.github.io"
-baseurl: "/janipasha.github.io"
+baseurl: "/janipasha.github.io" # Don’t forget the slash
+lang: en
+
 author:
-  name: Pasha
-  bio: Lead Software Engineer
+  name: "Pasha"
+  bio: "Senior Engineer transitioning to GenAI"
+
+theme: jekyll-theme-chirpy
+timezone: Asia/Kolkata
+
+markdown: kramdown
+highlighter: rouge
